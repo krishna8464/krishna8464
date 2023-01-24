@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966))
 <h1 align="center">Hi 👋, I'm Vamshi Krishna Yenda</h1>
 <h3 align="center">A headstrong and inquisitive aspiring Full Stack Web Developer. Highly skilled in developing robust, scalable applications and web API designs using javaScript and Mongo DB.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif)")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna8464&label=Profile%20views&color=0e75b6&style=flat" alt="krishna8464" /> </p>
 
