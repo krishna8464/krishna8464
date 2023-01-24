@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna8464" alt="krishna8464" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yenda vamshi" target="blank"><img src="https://img.shields.io/twitter/follow/yenda vamshi?logo=twitter&style=for-the-badge" alt="yenda vamshi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/yenda vamshi?logo=twitter&style=for-the-badge" alt="yenda vamshi" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB and other backend frameworks**
 
