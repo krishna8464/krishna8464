@@ -41,13 +41,13 @@
 <hr>
 <p align="left">
 <a href="https://codepen.io/krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="krishna" height="30" width="40" /></a>
-<a href="https://twitter.com/yenda vamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yenda vamshi" height="30" width="40" /></a>
+<a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yenda vamshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yenda vamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yenda vamshi" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yenda vamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yenda vamshi" height="30" width="40" /></a>
-<a href="https://fb.com/vamsi krishna yanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vamsi krishna yanda" height="30" width="40" /></a>
-<a href="https://instagram.com/yendavamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yendavamshi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yenda vamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yenda vamshi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vamshi krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamshi krishna" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vamsikrishna.yanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vamsi krishna yanda" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yendavamshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yendavamshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCRS30TKa5rIvvwGDC60hkzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yenda vamshi" height="30" width="40" /></a>
+<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamshi krishna" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Statistical Data :-</h3>
