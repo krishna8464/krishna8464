@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yendavamshikrishna123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VelkEVwQtmgY_JURnf0_L5_4Fd3p7kJS/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d1G7qczZVMCvaitl27aJ32UIb8nIMgBY/view?usp=share_link)
 
 - ⚡ Fun fact **Food and Food🍜 are the reasons to live.**
 
