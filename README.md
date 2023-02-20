@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d1G7qczZVMCvaitl27aJ32UIb8nIMgBY/view?usp=share_link)
 
 - ⚡ Fun fact **Food and Food🍜 are the reasons to live.**
+- 🧑🏿‍💻 Portfolio [Portfolio](https://krishna8464.github.io/)
 
 <br>
 
