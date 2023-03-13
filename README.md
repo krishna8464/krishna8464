@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yendavamshikrishna123@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1d1G7qczZVMCvaitl27aJ32UIb8nIMgBY/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ij5RSJFU7uu1FTJ9KSIq1T4iCYtxxXMg/view?usp=share_link)
 
 - ⚡ Fun fact **Food and Food🍜 are the reasons to live.**
 - 🧑🏿‍💻 Portfolio [Portfolio](https://krishna8464.github.io/)
@@ -50,8 +50,6 @@
 <a href="https://www.instagram.com/yendavamshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yendavamshi" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/channel/UCRS30TKa5rIvvwGDC60hkzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yenda vamshi" height="30" width="40" /></a>
-  
-<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamshi krishna" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Statistical Data :-</h3>
