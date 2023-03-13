@@ -58,4 +58,5 @@
 <br>
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna8464&show_icons=true&locale=en" alt="krishna8464" /></p></div>
 <br>
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna8464" alt="krishna8464"/></p></div>
+<div><p><img align="center" src="https://streak-stats.demolab.com?user=krishna8464" alt="krishna8464"/></p></div>
+
