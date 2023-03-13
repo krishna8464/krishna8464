@@ -58,6 +58,5 @@
 <br>
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna8464&show_icons=true&locale=en" alt="krishna8464" /></p></div>
 <br>
-<!-- <div><p><img align="center" src="https://streak-stats.demolab.com?user=krishna8464" alt="krishna8464"/></p></div> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krishna8464&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna8464&theme=vision-friendly-dark" alt="krishna8464"/></p></div>
 
